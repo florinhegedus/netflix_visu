@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Create Visu",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Generate Tables",
+            "type": "python",
+            "request": "launch",
+            "program": "complex_network_shows_and_actors/complex_network_generate_tables.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
